@@ -1,0 +1,5 @@
+{
+  "name": "Saurabh AI",
+  "description": "A professional-grade sentiment analysis dashboard powered by Gemini 2.5 Flash. Analyze text, reviews, and social posts instantly with detailed emotional breakdown and confidence scoring.",
+  "requestFramePermissions": []
+}
